@@ -1,2 +1,2 @@
-# qr_reader_incomplete
-Exercise to be completed during the day!
+# qreader
+QR Reader based on Web Activities.
